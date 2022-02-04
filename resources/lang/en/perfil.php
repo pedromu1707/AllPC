@@ -1,0 +1,21 @@
+<?php
+return [
+'seccion'=>  'PERSONAL SECTION',
+'cuenta' => 'MY ACCOUNT',
+'cambiar'=> 'CHANGE PASSWORD',
+'antigua'=>'Old password',
+'nueva'=>'New Password',
+'nueva2'=>'Repeat your password',
+'enviar'=>'CHANGE PASSWORD',
+'pedidos'=>'My orders',
+'deseos'=>'Wish list',
+'cuenta2'=>'My account',
+'duda'=>'If you have any question',
+'contactanos'=>'contact us',
+'equipo'=>'our team will help you.',
+'fecha'=>'Date',
+'direccion'=>'Send to',
+'articulos'=>'Articles',
+'total'=>'Total Order',
+'pedidos'=>'MY ORDERS',
+];

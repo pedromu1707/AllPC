@@ -25,7 +25,7 @@ $articulos=$articulos. " ".$data->quantity." Unidades del producto: ". $data->na
         
 
         }
-      
+      //calcula el coste de envío
         if(Cart::getTotal()<50){
             $total=Cart::getTotal()+10;
         }
